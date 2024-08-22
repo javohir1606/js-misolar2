@@ -1,27 +1,3 @@
-
-// let count = 0;
-// let number = 7;
-// for(let i = 0; i <= number; i++){
-//   if(number % i == 0){
-//     count++;
-//   }
-// }
-
-// if(count == 2){
-//     console.log("tub");
-// }else{
-//   console.log("tub emas");
-  
-// }
-
-
-// let arr = [                   
-//   {nema: "lorem", id: 1, age: 10},
-//   {nema: "lorem", id: 2, age: 10},
-//   {nema: "lorem", id: 3, age: 10},
-//   {nema: "lorem", id: 4, age: 10}
-// ]
-
 // 1-misol
 // let arr = [                   
 //   {nema: "lorem", age: 10},
